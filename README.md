@@ -105,7 +105,8 @@ Do not route high current through the switch to the converter; use the switch on
 
 
 ## Images 
-
+---
+![Project Image](https://github.com/Katlego1861/Assistant-Robot-/blob/main/Robot%20CAD%20design/IMG_4364.jpg)
 ----
 ![Project Image](https://github.com/Katlego1861/Assistant-Robot-/blob/main/Screenshot%202025-10-03%20115839.png)
 ) 
